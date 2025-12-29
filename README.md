@@ -23,4 +23,4 @@ Note: This program has only been tested on Linux.
 # Credits
 - https://github.com/d4rk/ac_shifting_leds for the code to control the leds and inspiration for the readme.
 - https://github.com/fuelsoft/out-gauge-cluster for the information on how outgauge works.
-- url for the original project
+- https://github.com/gamingdoom/beamng-shifting-leds for the original project
