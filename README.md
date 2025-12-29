@@ -1,6 +1,6 @@
-# Logitech G29 Shifter LEDs for BeamNG.Drive
+# Logitech G923 Shifter LEDs for BeamNG.Drive
 
-A utility that allows the G29's shifter leds to light up based on the car's rpm.
+A utility that allows the G923's shifter leds to light up based on the car's rpm.
 
 ![Shifting Leds on the G29](https://raw.githubusercontent.com/d4rk/ac_shifting_leds/main/images/shifting_leds.png)
 
@@ -23,3 +23,4 @@ Note: This program has only been tested on Linux.
 # Credits
 - https://github.com/d4rk/ac_shifting_leds for the code to control the leds and inspiration for the readme.
 - https://github.com/fuelsoft/out-gauge-cluster for the information on how outgauge works.
+- url for the original project
