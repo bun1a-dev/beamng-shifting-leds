@@ -35,4 +35,3 @@ Then replug the wheel.
 - https://github.com/d4rk/ac_shifting_leds for the code to control the leds and inspiration for the readme.
 - https://github.com/fuelsoft/out-gauge-cluster for the information on how outgauge works.
 - https://github.com/gamingdoom/beamng-shifting-leds for the original project
-- https://github.com/bun1a-dev/beamng-shifting-leds for the NodeJS version this Python port is based on
